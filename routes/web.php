@@ -59,3 +59,6 @@ Route::get('/articles/sports', 'ArticleController@sports')->name('articles/sport
 Route::get('/articles/technology', 'ArticleController@technology')->name('articles/technology');
 Route::get('/articles/social', 'ArticleController@social')->name('articles/social');
 
+
+
+
